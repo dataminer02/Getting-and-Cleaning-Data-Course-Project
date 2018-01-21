@@ -1,7 +1,7 @@
-#Code Book
+# Code Book
 This code book describes all of the data fields in the tidy.txt file.
 
-##Identifiers
+## Identifiers
 1. subjectID = the ID of the test subject
 2. activityID = the type of activity performed when the corresponding measurements were taken
    * WALKING (value 1)
@@ -11,7 +11,7 @@ This code book describes all of the data fields in the tidy.txt file.
    * STANDING (value 5)
    * LAYING (value 6)
 
-#Measurements
+# Measurements
 * tBodyAccmeanX
 * tBodyAccmeanY
 * tBodyAccmeanZ
